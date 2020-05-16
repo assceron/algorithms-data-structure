@@ -1,0 +1,4 @@
+s1 m c ab
+s2 l s cd
+s3 v a ef
+s4 a c ab

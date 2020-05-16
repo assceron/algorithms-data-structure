@@ -1,0 +1,9 @@
+4
+Aosta ValdAosta
+Torino Piemonte
+Genova Liguria
+Milano Lombardia
+Aosta Torino 10
+Torino Milano 100
+Genova Aosta 9
+Milano Genova 5
